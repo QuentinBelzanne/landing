@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Shrikhand&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/artiste.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family : helvetica;
+	font-size : 18px;;
+	margin : 0px;
+	background-color : #324972;
+	color : #BCD2E8
+}
+
+h1, h2{
+	font-family : 'Shrikhand';
+	font-size :  75px;
+	color : #BCD2E8
+} 
+
+h2{
+	font-size : 30px;
+	font-weight: bold;
+	margin-top : 90px;
+	margin-bottom: 10px;
+}
+
+h3{
+	font-size : 20px;
+}
+
+a {
+	text-decoration : none;
+	font-family : helvetica;
+	font-size : 18px;
+	font-weight: normal;
+}
+
+.titre-spécial{
+	font-family : 'Shrikhand';
+	color : #BCD2E8;
+	font-size : 50px;
+	font-weight: bold;
+	margin-top : 110px;
+}

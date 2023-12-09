@@ -1,0 +1,11 @@
+.button{
+	background-color: #77223E;
+	padding : 15px 20px;
+	border-radius : 4px;
+	color : white;
+	margin : 10px;
+}
+
+#forbutton{
+	margin-bottom: 30px;
+}

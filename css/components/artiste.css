@@ -1,0 +1,16 @@
+.artiste1{
+	width: 200px;
+	height: 200px;
+	border-radius: 10%;
+	margin-bottom: 30px;
+	margin-top: 20px;
+}	
+
+.list-inline{
+	list-style : none;
+	padding-left:0px;
+}
+.list-inline li {
+	display : inline;
+	padding : 2px;
+}
